@@ -1,0 +1,26 @@
+Description: Realtek RTL8188EU Wireless LAN 802.11n USB 2.0 Network Adapter 
+Type: IEEE 802.11 
+Physical address: 60-e3-27-09-e0-39 
+IPv4 address: 192.168.0.136
+Subnet mask: 255.255.255.0 
+Gateway address: 192.168.0.1 
+DHCP server: 192.168.0.1 
+{92701A21-594F-41FD-A361-D0F8F3875013}
+
+
+Description: Microsoft Wi-Fi Direct Virtual Adapter 
+Type: IEEE 802.11 
+Physical address: 62-e3-27-09-e0-39 
+IPv4 address: 0.0.0.0
+Subnet mask: 0.0.0.0 
+Gateway address: 0.0.0.0 
+DHCP server: 0.0.0.0 
+{48F60415-C708-4FFF-B2F7-8E4B08C66B65}
+
+
+Description: Microsoft Wi-Fi Direct Virtual Adapter #2 
+Type: IEEE 802.11 
+Physical address: 60-e3-27-09-e0-39 
+IPv4 address: 192.168.173.1
+Subnet mask: 255.255.255.0 
+Gateway address: 0.0.0.0 
